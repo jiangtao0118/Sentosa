@@ -5,5 +5,15 @@ public class AggregateNode {
         System.out.println("AggregateNode");
 
         System.out.println("Test Aggregate");
+
+
+
+
+
+
+
+
+
+        System.out.println("test merge request");
     }
 }
